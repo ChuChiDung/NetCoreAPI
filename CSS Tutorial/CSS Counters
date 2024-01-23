@@ -1,0 +1,8 @@
+body {
+  counter-reset: section;
+}
+--ChuChiDung-2021050136--
+h2::before {
+  counter-increment: section;
+  content: "Section " counter(section) ": ";
+}

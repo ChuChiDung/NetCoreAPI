@@ -1,0 +1,15 @@
+ul.a {
+  list-style-type: circle;
+}
+--ChuChiDung-2021050136--
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}

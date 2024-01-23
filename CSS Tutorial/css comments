@@ -1,0 +1,8 @@
+/* This is a single-line comment */
+p {
+  color: red;
+}
+--ChuChiDung-2021050136--
+p {
+    color: red;  /* Set text color to red */
+  }

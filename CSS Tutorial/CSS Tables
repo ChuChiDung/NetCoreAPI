@@ -1,0 +1,5 @@
+tr:hover {background-color: coral;}
+th {
+    background-color: #04AA6D;
+    color: white;
+  }--ChuChiDung-2021050136--

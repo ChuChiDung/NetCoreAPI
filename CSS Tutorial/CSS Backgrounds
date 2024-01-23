@@ -1,0 +1,38 @@
+body {
+  background-color: lightblue;
+}
+--ChuChiDung-2021050136--
+h1 {
+    background-color: green;
+  }
+  
+  div {
+    background-color: lightblue;
+  }
+  
+  p {
+    background-color: yellow;
+  }
+
+  //CSS background-image
+  body {
+    background-image: url("paper.gif");
+  }
+  //CSS background-repeat
+  body {
+    background-image: url("gradient_bg.png");
+  }
+  //CSS background-attachment
+  body {
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+  }
+  //CSS background - Shorthand
+  body {
+    background-color: #ffffff;
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+  }

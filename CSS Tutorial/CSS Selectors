@@ -1,0 +1,23 @@
+p {
+  text-align: center;
+  color: red;
+}
+--ChuChiDung-2021050136--
+.center {
+    text-align: center;
+    color: red;
+  }
+  h1 {
+    text-align: center;
+    color: red;
+  }
+  
+  h2 {
+    text-align: center;
+    color: red;
+  }
+  
+  p {
+    text-align: center;
+    color: red;
+  }
