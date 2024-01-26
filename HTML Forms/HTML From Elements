@@ -1,7 +1,6 @@
 <label for="cars">Choose a car:</label>
 <select id="cars" name="cars">
-  <option ChuChiDung-2021050136 </option>
-  <option value="saab">Saab</option>
+  <option value="chuchidung-2021050136">Saab</option>
   <option value="fiat">Fiat</option>
   <option value="audi">Audi</option>
 </select>
