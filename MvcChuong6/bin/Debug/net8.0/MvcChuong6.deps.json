@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MvcChuong6/1.0.0": {
+        "runtime": {
+          "MvcChuong6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MvcChuong6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
