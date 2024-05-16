@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zFwx4ioHlkILgX55b/zOiPQYJHZPAv3AuatN3XlpY0PTwNMJDGiQJJEqcCFZx2UjwzLNshH1O/FHrHHFc9XZFA==",
+  "dgSpecHash": "8yhJN14SlIduLRpa+/ck+u5lqx4jFc2I7QRQXa5gAcqRyXHmf+QBdo6LCkTZmqE8QHrHNvgdNDBl4TW6YMkeYA==",
   "success": true,
-  "projectFilePath": "D:\\phattrienphanmemquanly\\MvcDemo\\MvcDemo.csproj",
+  "projectFilePath": "D:\\NetCore\\PTPMQL\\MvcDemo\\MvcDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hh\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

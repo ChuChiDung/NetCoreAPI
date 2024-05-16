@@ -31,6 +31,22 @@ namespace MvcDemo.Migrations
 
                     b.ToTable("Person");
                 });
+
+            modelBuilder.Entity("MvcDemo.Models.Test1", b =>
+                {
+                    b.Property<string>("Test1ID")
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("Age")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Test1ID");
+
+                    b.ToTable("Test1");
+                });
 #pragma warning restore 612, 618
         }
     }

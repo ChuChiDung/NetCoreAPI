@@ -8716,11 +8716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\phattrienphanmemquanly\\MvcDemo\\MvcDemo.csproj",
+      "projectUniqueName": "D:\\NetCore\\PTPMQL\\MvcDemo\\MvcDemo.csproj",
       "projectName": "MvcDemo",
-      "projectPath": "D:\\phattrienphanmemquanly\\MvcDemo\\MvcDemo.csproj",
+      "projectPath": "D:\\NetCore\\PTPMQL\\MvcDemo\\MvcDemo.csproj",
       "packagesPath": "C:\\Users\\hh\\.nuget\\packages\\",
-      "outputPath": "D:\\phattrienphanmemquanly\\MvcDemo\\obj\\",
+      "outputPath": "D:\\NetCore\\PTPMQL\\MvcDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hh\\AppData\\Roaming\\NuGet\\NuGet.Config"
