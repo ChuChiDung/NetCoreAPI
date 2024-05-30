@@ -562,3 +562,6 @@ D:\NetCore\PTPMQL\MvcDemo\obj\Debug\net8.0\scopedcss\projectbundle\MvcDemo.bundl
 D:\NetCore\PTPMQL\MvcDemo\obj\Debug\net8.0\MvcDemo.csproj.CopyComplete
 D:\NetCore\PTPMQL\MvcDemo\obj\Debug\net8.0\MvcDemo.genruntimeconfig.cache
 D:\NetCore\PTPMQL\MvcDemo\obj\Debug\net8.0\ref\MvcDemo.dll
+D:\NetCore\PTPMQL\MvcDemo\bin\Debug\net8.0\X.PagedList.dll
+D:\NetCore\PTPMQL\MvcDemo\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\NetCore\PTPMQL\MvcDemo\obj\Debug\net8.0\MvcDemo.MvcApplicationPartsAssemblyInfo.cs
