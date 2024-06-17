@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CCD_Baithi2324.props" />
+</Project>

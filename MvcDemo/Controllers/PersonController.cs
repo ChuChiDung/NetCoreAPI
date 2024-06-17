@@ -168,7 +168,7 @@ public class PersonController : Controller
                     // read data from excel file fill DataTable
                     var dt = _excelProcess.ExcelToDataTable(fileLocation);
                     //using for loop to read data from dt
-                    for (int i=0; i<dt.Rows.Count; i++)
+                    for (int i=0; i< dt.Rows.Count; i++)
                     {
                         //create new Peson object
                         var ps = new Person();
